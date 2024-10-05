@@ -1,2 +1,2 @@
 # Prankbot
-A script that visit youtube when ran hehe
+The prank script is a Python program designed to visit YouTube in a way that mimics normal human behaviour, without making it obvious that a bot is automating the process. This script leverages the Selenium library to open a web browser, navigate to YouTube, scroll through the page, and optionally perform a search. By randomising the pauses and actions, it aims to simulate typical browsing behaviour.
